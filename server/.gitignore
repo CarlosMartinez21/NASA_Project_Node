@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+#testing
+/covereage
+
+#production
+/build
+
+#misc
+.DS_Store
